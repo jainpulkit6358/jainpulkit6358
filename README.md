@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pulkit+Jain+%F0%9F%91%8B;I+turn+ideas+into+web+apps+%F0%9F%9A%80;I+play+guitar+%F0%9F%8E%B8+and+piano+%F0%9F%8E%B9;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6c63ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=6c63ff)
+![Profile Views](https://komarev.com/ghpvc/?username=jainpulkit6358&label=Profile%20Views&color=6c63ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/jainpulkit6358?style=flat-square&color=6c63ff)
 
 </div>
 
@@ -56,10 +56,10 @@ const pulkit = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jainpulkit6358&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainpulkit6358&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainpulkit6358&theme=tokyonight&hide_border=true" />
 
 </div>
 
