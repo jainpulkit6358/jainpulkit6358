@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pulkit+Jain+%F0%9F%91%8B;I+shoot+it+%F0%9F%93%B8+edit+it+%F0%9F%8E%AC+and+market+it+%F0%9F%93%A3;MCA+Graduate+%7C+Web+%26+Graphic+Designer+%F0%9F%8E%A8;I+play+guitar+%F0%9F%8E%B8+and+piano+%F0%9F%8E%B9" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6c63ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=6c63ff)
+![Profile Views](https://komarev.com/ghpvc/?username=jainpulkit6358&label=Profile%20Views&color=6c63ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/jainpulkit6358?style=flat-square&color=6c63ff)
 
 </div>
 
