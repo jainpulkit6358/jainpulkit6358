@@ -63,7 +63,6 @@ const pulkit = {
 
 </div>
 
-> ⚠️ `yourusername` ki jagah apna asli GitHub username daalna mat bhoolna, warna stats nahi dikhenge.
 
 ---
 
